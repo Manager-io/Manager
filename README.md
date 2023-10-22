@@ -2,6 +2,8 @@
 
 Welcome to the `Manager-io/Manager` GitHub repository. This repository is dedicated to hosting binary downloads for the Manager software.
 
+**Note:** The direct links provided below are for the **latest version** of Manager software.
+
 ## Desktop Edition
 
 | Operating System | x64                                      | arm64                                    |
