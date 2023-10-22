@@ -1,17 +1,28 @@
 # Manager-io/Manager
 
-Welcome to the `Manager-io/Manager` GitHub repository. This repository is dedicated to hosting binary downloads for the Manager software, available in the "Releases" section.
+Welcome to the `Manager-io/Manager` GitHub repository. This repository is dedicated to hosting binary downloads for the Manager software.
+
+## Desktop Edition
+
+| Operating System | x64                                      | arm64                                    |
+|------------------|------------------------------------------|------------------------------------------|
+| Windows          | [Download](https://github.com/Manager-io/Manager/releases/latest/download/Manager-win-x64.msi) | -                                        |
+| Mac OS            | [Download](https://github.com/Manager-io/Manager/releases/latest/download/Manager-osx-x64.dmg) | [Download](https://github.com/Manager-io/Manager/releases/latest/download/Manager-osx-arm64.dmg) |
+| Linux            | [Download](https://github.com/Manager-io/Manager/releases/latest/download/Manager-linux-x64.AppImage) | -                                        |
+
+## Server Edition
+
+| Operating System | x64                                                    | x86                                           | arm64                                              |
+|------------------|--------------------------------------------------------|-----------------------------------------------|----------------------------------------------------|
+| Windows          | [Download](https://github.com/Manager-io/Manager/releases/latest/download/ManagerServer-win-x64.zip) | [Download](https://github.com/Manager-io/Manager/releases/latest/download/ManagerServer-win-x86.zip) | - 
+| Mac OS            | [Download](https://github.com/Manager-io/Manager/releases/latest/download/ManagerServer-osx-x64.zip) | -                                             | [Download](https://github.com/Manager-io/Manager/releases/latest/download/ManagerServer-osx-arm64.zip) |                                             |
+| Linux            | [Download](https://github.com/Manager-io/Manager/releases/latest/download/ManagerServer-linux-x64.tar.gz) | -                                             | [Download](https://github.com/Manager-io/Manager/releases/latest/download/ManagerServer-linux-arm64.tar.gz) |
 
 ## Links
 
 - **Main Website**: [manager.io](https://www.manager.io)
 - **Guides**: [manager.io/guides](https://www.manager.io/guides)
 - **Community Forum**: [forum.manager.io](https://forum.manager.io)
-
-## Usage
-
-1. Navigate to the [Releases](https://github.com/Manager-io/Manager/releases/latest) section.
-2. Choose the appropriate release and download the binary for your operating system.
 
 ## Support
 
