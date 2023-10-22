@@ -20,6 +20,10 @@ Welcome to the `Manager-io/Manager` GitHub repository. This repository is dedica
 | Mac              | [Download](https://github.com/Manager-io/Manager/releases/latest/download/ManagerServer-osx-x64.zip) | -                                             | [Download](https://github.com/Manager-io/Manager/releases/latest/download/ManagerServer-osx-arm64.zip) |                                             |
 | Linux            | [Download](https://github.com/Manager-io/Manager/releases/latest/download/ManagerServer-linux-x64.tar.gz) | -                                             | [Download](https://github.com/Manager-io/Manager/releases/latest/download/ManagerServer-linux-arm64.tar.gz) |
 
+## Cloud Edition
+
+The Cloud Edition of Manager cannot be downloaded. Instead, users can sign up for a free trial at [www.manager.io/cloud-edition](https://www.manager.io/cloud-edition).
+
 ## Links
 
 - **Main Website**: [www.manager.io](https://www.manager.io)
