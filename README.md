@@ -4,7 +4,7 @@ Welcome to the `Manager-io/Manager` GitHub repository. This repository is dedica
 
 **Note:** The direct links provided below are for the **latest version** of Manager software.
 
-![](https://img.shields.io/github/v/release/Manager-io/Manager?logo=false&label=Latest+version&style=social)
+![](https://img.shields.io/github/v/release/Manager-io/Manager)
 
 ## Desktop Edition
 
