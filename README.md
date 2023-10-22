@@ -22,8 +22,8 @@ Welcome to the `Manager-io/Manager` GitHub repository. This repository is dedica
 
 ## Links
 
-- **Main Website**: [manager.io](https://www.manager.io)
-- **Guides**: [manager.io/guides](https://www.manager.io/guides)
+- **Main Website**: [www.manager.io](https://www.manager.io)
+- **Guides**: [www.manager.io/guides](https://www.manager.io/guides)
 - **Community Forum**: [forum.manager.io](https://forum.manager.io)
 
 ## Support
