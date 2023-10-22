@@ -24,7 +24,7 @@ Welcome to the `Manager-io/Manager` GitHub repository. This repository is dedica
 
 ## Cloud Edition
 
-The Cloud Edition of Manager cannot be downloaded. Instead, users can sign up for a free trial at [www.manager.io/cloud-edition](https://www.manager.io/cloud-edition).
+The Cloud Edition of Manager is identical to the Server Edition in terms of features and functionality. The key difference is that the Cloud Edition is professionally hosted by us, offering a seamless experience without the need for self-hosting. Users can sign up for a free trial at [www.manager.io/cloud-edition](https://www.manager.io/cloud-edition).
 
 ## Links
 
