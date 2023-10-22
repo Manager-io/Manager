@@ -10,7 +10,7 @@ Welcome to the `Manager-io/Manager` GitHub repository. This repository is dedica
 
 ## Usage
 
-1. Navigate to the ["Releases"](https://github.com/Manager-io/Manager/releases) section.
+1. Navigate to the [Releases](https://github.com/Manager-io/Manager/releases/latest) section.
 2. Choose the appropriate release and download the binary for your operating system.
 
 ## Support
