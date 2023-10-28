@@ -6,19 +6,19 @@ Welcome to the `Manager-io/Manager` GitHub repository. This repository is dedica
 
 ## Desktop Edition
 
-| Operating System | x64                                      | arm64                                    |
-|------------------|------------------------------------------|------------------------------------------|
-| Windows          | [Download](https://github.com/Manager-io/Manager/releases/latest/download/Manager-win-x64.msi) | -                                        |
-| Mac              | [Download](https://github.com/Manager-io/Manager/releases/latest/download/Manager-osx-x64.dmg) | [Download](https://github.com/Manager-io/Manager/releases/latest/download/Manager-osx-arm64.dmg) |
-| Linux            | [Download](https://github.com/Manager-io/Manager/releases/latest/download/Manager-linux-x64.AppImage) | -                                        |
+| Operating System | x64                                      | arm64                                    | x86                                    |
+|------------------|------------------------------------------|------------------------------------------|------------------------------------------|
+| Windows          | [Download](https://github.com/Manager-io/Manager/releases/latest/download/Manager-win-x64.msi) | - | [Download](https://github.com/Manager-io/Manager/releases/latest/download/Manager-win-x86.msi)
+| Mac              | [Download](https://github.com/Manager-io/Manager/releases/latest/download/Manager-osx-x64.dmg) | [Download](https://github.com/Manager-io/Manager/releases/latest/download/Manager-osx-arm64.dmg) | - |
+| Linux            | [Download](https://github.com/Manager-io/Manager/releases/latest/download/Manager-linux-x64.AppImage) | - | - |
 
 ## Server Edition
 
-| Operating System | x64                                                    | x86                                           | arm64                                              |
+| Operating System | x64                                                    | arm64                                           | x86                                              |
 |------------------|--------------------------------------------------------|-----------------------------------------------|----------------------------------------------------|
-| Windows          | [Download](https://github.com/Manager-io/Manager/releases/latest/download/ManagerServer-win-x64.zip) | [Download](https://github.com/Manager-io/Manager/releases/latest/download/ManagerServer-win-x86.zip) | - 
-| Mac              | [Download](https://github.com/Manager-io/Manager/releases/latest/download/ManagerServer-osx-x64.zip) | -                                             | [Download](https://github.com/Manager-io/Manager/releases/latest/download/ManagerServer-osx-arm64.zip) |                                             |
-| Linux            | [Download](https://github.com/Manager-io/Manager/releases/latest/download/ManagerServer-linux-x64.tar.gz) | -                                             | [Download](https://github.com/Manager-io/Manager/releases/latest/download/ManagerServer-linux-arm64.tar.gz) |
+| Windows          | [Download](https://github.com/Manager-io/Manager/releases/latest/download/ManagerServer-win-x64.zip) | - | [Download](https://github.com/Manager-io/Manager/releases/latest/download/ManagerServer-win-x86.zip) |
+| Mac              | [Download](https://github.com/Manager-io/Manager/releases/latest/download/ManagerServer-osx-x64.zip) | [Download](https://github.com/Manager-io/Manager/releases/latest/download/ManagerServer-osx-arm64.zip) | - |
+| Linux            | [Download](https://github.com/Manager-io/Manager/releases/latest/download/ManagerServer-linux-x64.tar.gz) | [Download](https://github.com/Manager-io/Manager/releases/latest/download/ManagerServer-linux-arm64.tar.gz)  | - |
 
 ## Cloud Edition
 
