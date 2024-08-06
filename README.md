@@ -8,7 +8,7 @@ Welcome to the `Manager-io/Manager` GitHub repository. This repository is dedica
 
 | Operating System | x64                                      | arm64                                    | x86                                    |
 |------------------|------------------------------------------|------------------------------------------|------------------------------------------|
-| Windows          | [Download](https://github.com/Manager-io/Manager/releases/latest/download/Manager-win-x64.msi) | - | [Download](https://github.com/Manager-io/Manager/releases/latest/download/Manager-win-x86.msi)
+| Windows          | [Download](https://github.com/Manager-io/Manager/releases/latest/download/Manager-win-x64.msix) | - | [Download](https://github.com/Manager-io/Manager/releases/latest/download/Manager-win-x86.msix)
 | Mac              | [Download](https://github.com/Manager-io/Manager/releases/latest/download/Manager-osx-x64.dmg) | [Download](https://github.com/Manager-io/Manager/releases/latest/download/Manager-osx-arm64.dmg) | - |
 | Linux            | [Download](https://github.com/Manager-io/Manager/releases/latest/download/Manager-linux-x64.AppImage) | - | - |
 
