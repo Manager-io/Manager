@@ -4,12 +4,12 @@
 
 Manager.io uses a continuous release model. All updates, including security fixes, are applied to the main branch and released as part of the latest version.
 
-We do not maintain older versions or separate release branches. To benefit from the latest features and security updates, users should always run the most recent version.
+We do not maintain older versions or separate release branches. To benefit from the latest features and security updates, users should always run the most recent release.
 
-| Version       | Supported          |
-| ------------- | ------------------ |
-| Latest Build  | :white_check_mark: |
-| Older Builds  | :x:                |
+| Version         | Supported          |
+| --------------- | ------------------ |
+| Latest Release  | :white_check_mark: |
+| Older Releases  | :x:                |
 
 ## Reporting a Vulnerability
 
