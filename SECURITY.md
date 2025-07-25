@@ -33,14 +33,11 @@ We award bounties for valid security vulnerabilities based on severity, impact, 
 
 The following types of issues are **not eligible** for bounty:
 
-| Category                         | Example                                                              |
-| -------------------------------- | -------------------------------------------------------------------- |
-| Stack traces                     | Errors that expose stack traces without leading to a security impact |
-| Outdated dependencies            | Reports of outdated libraries without a working exploit              |
-| Theoretical/non-exploitable bugs | Issues that have no realistic attack vector                          |
-| Missing or weak security headers | e.g. lack of CSP, X-Frame-Options, etc.                              |
-| Rate limiting or brute force     | Reports not accompanied by a viable attack or abuse scenario         |
-| Clickjacking                     | Unless demonstrated with practical impact                            |
-| Self-XSS                         | Requires user to input and execute their own malicious code          |
-| Open ports                       | Reports of open ports without an exploit or access risk              |
-| Version disclosure               | e.g. software version in HTTP headers                                |
+| Category                            | Example                                                                                                                                             |
+| ----------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Non-security-impacting behavior     | Behaviors that cause inconvenience but do not pose a security risk (e.g. non-impactful file or resource creation, stack traces, version disclosure) |
+| Outdated or unused components       | Reports of outdated libraries or open ports without a viable exploit                                                                                |
+| Non-exploitable findings            | Theoretical vulnerabilities without realistic attack scenarios                                                                                      |
+| Security headers and configurations | Missing or weak HTTP headers (e.g. CSP, X-Frame-Options)                                                                                            |
+| Abuse without impact                | Reports like rate-limiting, brute force, or clickjacking without demonstrated impact                                                                |
+| Self-inflicted vulnerabilities      | Issues requiring the user to attack themselves (e.g. Self-XSS)                                                                                      |
