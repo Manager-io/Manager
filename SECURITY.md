@@ -31,7 +31,7 @@ We award bounties for valid security vulnerabilities based on severity, impact, 
 
 ## Out of Scope
 
-The following types of issues are **not eligible** for bounty and may be ignored or closed without response:
+The following types of issues are **not eligible** for bounty:
 
 | Category                         | Example                                                              |
 | -------------------------------- | -------------------------------------------------------------------- |
